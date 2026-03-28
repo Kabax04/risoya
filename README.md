@@ -10,4 +10,4 @@ QGIS
 
 ## Coordinate System
 
-EUREF89 UTM Zone 32
+EUREF89 UTM Zone 32N (EPSG:11022)
