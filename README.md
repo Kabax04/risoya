@@ -7,3 +7,7 @@ Creating a map over Risøya in Tvedestrand with classic orienteering symbology, 
 ## Software
 
 QGIS
+
+## Coordinate System
+
+ETRS89 UTM Zone 32N (EPSG:25832)
