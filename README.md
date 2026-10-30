@@ -1,3 +1,5 @@
+**Abandoned repo**
+
 # Risoya orienteering map
 
 ## Project goal
